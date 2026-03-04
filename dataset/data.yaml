@@ -1,0 +1,7 @@
+path: C:/Users/vinod/Downloads/ANPR_Training/dataset
+
+train: train/images
+val: val/images
+
+names:
+  0: license_plate
